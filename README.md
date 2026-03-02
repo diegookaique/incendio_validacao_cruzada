@@ -74,7 +74,8 @@ Estes resultados indicam uma alta acurácia média, sugerindo que o modelo de Re
 -   Analisar outras métricas de avaliação, como precisão, recall, F1-score e curva ROC, especialmente se houver desbalanceamento de classes.
 -   Investigar a remoção ou tratamento de outliers mais agressivo para variáveis como `Temperature[C]` caso a análise posterior justifique.
 
- 
+---
+
 **Gostou da Análise?** Conecte-se para trocarmos experiências e ideias sobre projetos de dados!
 
 🔗 **Meu LinkedIn:** [https://www.linkedin.com/in/diego-kaique-9ba3697b]
